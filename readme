@@ -1,2 +1,2 @@
 talent portal is simple web app based on spring boot - Master Branch
-
+running simple web app on extenal tomcat server through hot deployment with maven clean install tomcat7:deploy command
